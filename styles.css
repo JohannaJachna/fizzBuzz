@@ -1,0 +1,26 @@
+.body {
+display: flex;
+justify-content: center;
+}
+section {
+  display:flex;
+  justify-content: center;
+  margin: 5px;
+  padding: 5px;
+  background-color: teal;
+  margin-top: 300px;
+  margin-bottom: 450px;
+}
+article {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  border-color: white;
+  border: solid 5px;
+  height:800px;
+  background-color: salmon;
+}
+.userInput {
+  font-size: 18px;
+  width: 40px;
+}
